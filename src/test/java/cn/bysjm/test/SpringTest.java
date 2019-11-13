@@ -1,4 +1,4 @@
-package cn.bysjm;
+package cn.bysjm.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
